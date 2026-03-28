@@ -6,6 +6,14 @@
 
 ---
 
+> **READ THIS BEFORE WRITING A SINGLE LINE OF CODE.**
+> This document is the contract between Team 1 and all other teams.
+> Every shared resource, naming rule, database table, and integration point
+> that your module depends on is documented here. Deviating from this guide
+> will break integration at the final merge.
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
